@@ -90,6 +90,15 @@ Ensure the following are installed:
 
 ---
 
-## 📧 Author
+## Final Workflow Summary:
+-Detect players using YOLOv5.
 
-Mohd Adeeb — [GitHub](https://github.com/Dewolf1)
+-Track and re-identify players over time using OSNet.
+
+-Classify teams using jersey colors in HSV.
+
+-Read jersey numbers with Tesseract OCR.
+
+-Result: Each player is uniquely identified and tracked by number and team.
+## Author
+Pooja Kushwaha :https://github.com/poojaaaa18/Football_Player_Tracking
